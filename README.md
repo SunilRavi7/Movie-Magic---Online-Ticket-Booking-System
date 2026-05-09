@@ -79,7 +79,7 @@ The system enables:
 ```
 [ ADD HOME PAGE SCREENSHOT HERE ]
 Upload your screenshot and replace this block with:
-![Home Page](./screenshots/homepage.png)
+![Home Page](https://github.com/SunilRavi7/Movie-Magic---Online-Ticket-Booking-System/blob/main/images/1.png)
 ```
 
 ---
