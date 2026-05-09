@@ -75,64 +75,37 @@ The system enables:
 ### 🏠 1. Home Page
 > *Discover the latest blockbusters and book your seats instantly*
 
-<!-- 📸 SCREENSHOT 1 — Replace the placeholder below with your actual screenshot -->
-```
-[https://github.com/SunilRavi7/Movie-Magic---Online-Ticket-Booking-System/blob/main/images/1.png]
-Upload your screenshot and replace this block with:
-![Home Page]
-```
+![Home Page](https://raw.githubusercontent.com/SunilRavi7/Movie-Magic---Online-Ticket-Booking-System/main/images/1.png)
 
 ---
 
 ### 🎭 2. Theatre Dashboard
 > *Theatre owners can manage movies, shows, screens & bookings from one panel*
 
-<!-- 📸 SCREENSHOT 2 — Replace the placeholder below with your actual screenshot -->
-```
-[ ADD THEATRE DASHBOARD SCREENSHOT HERE ]
-Upload your screenshot and replace this block with:
-![Theatre Dashboard](./screenshots/theatre-dashboard.png)
-```
+![Theatre Dashboard](https://raw.githubusercontent.com/SunilRavi7/Movie-Magic---Online-Ticket-Booking-System/main/images/2.png)
 
 ---
 
 ### 💳 3. Razorpay Payment Integration
 > *Secure, multi-method payment — UPI, Cards, Net Banking, Wallet & more*
 
-<!-- 📸 SCREENSHOT 3 — Replace the placeholder below with your actual screenshot -->
-```
-[ ADD RAZORPAY PAYMENT SCREENSHOT HERE ]
-Upload your screenshot and replace this block with:
-![Razorpay Payment](./screenshots/razorpay.png)
-```
+![Razorpay Payment](https://raw.githubusercontent.com/SunilRavi7/Movie-Magic---Online-Ticket-Booking-System/main/images/3.png)
 
 ---
 
 ### 🗺️ 4. Google Maps API Integration
 > *Location-based theatre discovery with real-time interactive maps*
 
-<!-- 📸 SCREENSHOT 4 — Replace the placeholder below with your actual screenshot -->
-```
-[ ADD GOOGLE MAPS SCREENSHOT HERE ]
-Upload your screenshot and replace this block with:
-![Google Maps Integration](./screenshots/google-maps.png)
-```
+![Google Maps Integration](https://raw.githubusercontent.com/SunilRavi7/Movie-Magic---Online-Ticket-Booking-System/main/images/4.png)
 
 ---
 
 ### 🪑 5. Seat Arrangement / Selection
 > *Visual seat picker with Premium, Gold & Platinum tiers — real-time availability*
 
-<!-- 📸 SCREENSHOT 5 — Replace the placeholder below with your actual screenshot -->
-```
-[ ADD SEAT ARRANGEMENT SCREENSHOT HERE ]
-Upload your screenshot and replace this block with:
-![Seat Arrangement](./screenshots/seat-selection.png)
-```
+![Seat Arrangement](https://raw.githubusercontent.com/SunilRavi7/Movie-Magic---Online-Ticket-Booking-System/main/images/5.png)
 
 </div>
-
-> 💡 **Tip:** Create a `/screenshots` folder in the root of this repo and drop in your images, then update the paths above.
 
 ---
 
