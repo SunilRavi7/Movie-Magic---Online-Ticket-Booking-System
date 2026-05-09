@@ -77,9 +77,9 @@ The system enables:
 
 <!-- 📸 SCREENSHOT 1 — Replace the placeholder below with your actual screenshot -->
 ```
-[ ADD HOME PAGE SCREENSHOT HERE ]
+[https://github.com/SunilRavi7/Movie-Magic---Online-Ticket-Booking-System/blob/main/images/1.png]
 Upload your screenshot and replace this block with:
-![Home Page](https://github.com/SunilRavi7/Movie-Magic---Online-Ticket-Booking-System/blob/main/images/1.png)
+![Home Page]
 ```
 
 ---
